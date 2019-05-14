@@ -1,5 +1,3 @@
-Assign4: Due 11:59PM April 12th
-
 A company is in the business of buying rods in wholesale, cutting it, and
 selling the pieces in the retail market. The market fluctuates and the price 
 for different sizes of rods changes by the day. Here's where we come in, the
@@ -64,17 +62,3 @@ We achieved substitutability when MemoizedRodCutterTest extended RodCutterTest c
 and specify the classes that participated.
 
 We have used the Factory Method where the subclass decides which class to instantiate. We created MemoizedRodCutterTest class extends RodCutterTest and is responsible for providing its own object. With this code, we were able to reuse the tests in RodCutterTest class and follow the DRY principle.
-
-Total [100]: 94
-All tests pass [20]:
-Test Quality [10]:
-Performance Test Quality [10]:
-Code Coverage [10]:
-Design Quality [20]:
-Code Quality [10]:
-
-Q1 [10]: -1
-More principles?
-
-Q2 [10]: -5
-More patterns?
