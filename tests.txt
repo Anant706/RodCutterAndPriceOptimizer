@@ -1,0 +1,18 @@
+x canary test
+x get Price For Rod Length Zero
+x get Price For Rod Length one
+x get Price For Rod Length two
+x get Price For Rod Length three
+x get Price For Rod Length five
+x get Price For Rod Length ten
+x get Price For Rod Length eleven
+x get Price For Rod Length fourteen
+                                        
+x get Optimized Price For Rod Length Zero
+x get Optimized Price For Rod Length one
+x get Optimized Price For Rod Length two
+x get Optimized Price For Rod Length three
+x get Optimized Price For Rod Length five
+x get Optimized Price For Rod Length ten
+x get Optimized Price For Rod Length eleven
+x get Optimized Price For Rod Length fourteen
